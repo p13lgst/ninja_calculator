@@ -14,7 +14,7 @@
     "svelte-preprocess": "^2.14.4"
   },
   "dependencies": {
-    "mathjs": "^6.0.3",
+    "mathjs": "^7.5.1",
     "sirv-cli": "^0.4.4"
   },
   "scripts": {
